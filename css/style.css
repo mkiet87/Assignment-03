@@ -17,13 +17,12 @@ nav ul li {
     color: white;
 }
 
-.link:visited {
+.link {
     text-decoration:none;
-
 }
 
 a {
-    color: hsl(220,100% 100);
+    color: white;
     font-size: 2rem;
 }
 
