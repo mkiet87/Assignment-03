@@ -1,0 +1,95 @@
+* {
+    margin: 0px;
+    padding: 0 px;
+    box-sizing: border-box;
+}
+
+html {
+    font-size: 16px;
+    font-family: Arial;
+    margin: 1rem;
+
+}
+
+nav ul li {
+    display: inline;
+    padding-left: 2rem;
+    color: white;
+}
+
+.link:visited {
+    text-decoration:none;
+
+}
+
+a {
+    color: hsl(220,100% 100);
+    font-size: 2rem;
+}
+
+nav {
+    background-color: hsl(220, 50%, 50%);
+    height: 75px;
+    border-bottom: 25px solid #0d033f;
+}
+
+.masthead {
+    height: 300px;
+    background: url(/img/bg.jpg) no-repeat;
+
+}
+
+.fname {
+    font-size: 5rem;
+    font-weight: 700;
+    color: black;
+    padding: 3rem;
+    text-shadow: 1px 1px hsl(220, 100%, 100%);
+}
+
+.uname {
+    font-size: 4rem;
+    font-weight: 700;
+    color: lightsteelblue;
+    padding-left: 3rem;
+
+}
+
+main h1 {
+    font-size: 3rem;
+    font-weight: 700;
+    color: hsl(210, 50%, 50%);
+
+    margin: 50px;
+}
+
+
+main p {
+    font-size: 1rem;
+    font-family: Arial;
+
+    margin: 50px;
+
+    letter-spacing: 0.4px;
+    line-height: 2 0px;
+
+
+}
+
+main h2 {
+    font-size: 1.5rem;
+    font-weight: 700;
+    font-family: Arial;
+    color: hsl(210, 50%, 50%);
+
+    margin: 50px;
+}
+
+main ul li {
+    font-size: 1rem;
+
+    letter-spacing: 0.4px;
+    line-height: 20px;
+
+    margin: 10px;
+}
